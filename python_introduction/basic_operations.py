@@ -1,3 +1,6 @@
+# This code performs basic arithmetic operations: addition, subtraction, and multiplication.
+# It takes two numbers, performs the operations, and prints the results.
+
 number1 = 10
 number2 = 5
 
